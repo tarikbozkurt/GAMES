@@ -1,2 +1,2 @@
 # GAMES
-This is a repository about Games
+This repository about  Games
