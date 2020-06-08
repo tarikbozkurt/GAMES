@@ -1,2 +1,4 @@
-# GAMES
-This repository about  Games
+# GAME
+This repository about "Tabu" game with c++
+
+
